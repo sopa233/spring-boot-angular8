@@ -11,8 +11,7 @@ const routes: Routes = [
   { path: '', pathMatch: 'full', redirectTo: 'users'},
   { path: 'users', component: UserComponent },
   { path: 'add', component: AddUserComponent },
-  { path: 'update', component: UpdateUserComponent },
-  { path: 'ron', loadChildren: './bigmod/bigmod.module#BigmodModule' }
+  { path: 'update', component: UpdateUserComponent }
 ];
 
 @NgModule({

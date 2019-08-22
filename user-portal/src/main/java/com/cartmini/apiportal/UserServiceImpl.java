@@ -1,4 +1,4 @@
-package com.devglan.userportal;
+package com.cartmini.apiportal;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

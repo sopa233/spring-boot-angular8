@@ -1,4 +1,4 @@
-package com.devglan.userportal;
+package com.cartmini.apiportal;
 
 import javax.persistence.*;
 

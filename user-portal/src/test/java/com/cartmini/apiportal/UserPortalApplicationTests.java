@@ -1,4 +1,4 @@
-package com.devglan.userportal;
+package com.cartmini.apiportal;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

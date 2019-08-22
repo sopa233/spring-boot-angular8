@@ -1,4 +1,4 @@
-package com.devglan.userportal;
+package com.cartmini.apiportal;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

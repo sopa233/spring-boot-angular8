@@ -13,8 +13,8 @@ export class UserComponent implements OnInit {
 
   users: User[];
 
-  constructor(private router: Router, private userService: UserService) {
 
+  constructor(private router: Router, private userService: UserService) {
   }
 
   ngOnInit() {
@@ -32,11 +32,7 @@ export class UserComponent implements OnInit {
   };
 
   updateUser(user: User): void {
-    console.log(user)
-    this.userService.updateUser(user)
-      .subscribe( data => {
-        alert("User updated successfully.");
-      })
+    this.router.navigateByUrl('/update', { state: user })
   };
 
 }
