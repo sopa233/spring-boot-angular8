@@ -15,8 +15,8 @@ You may verify it (http://localhost:8080/apiportal/users) in the browser or test
 **2.angular-app** - Angular8 application for the user interface
 - Clone the project
 - Using terminal or command prompt, go to "angular-app" folder
+- run sudo npm install
 - run ng server -o
-
 It will automatically open the below in browser
 http://localhost:4200/users
 
