@@ -4,8 +4,8 @@ This simple CRUD app has two parts:
 2. angular-app
 
 **1.apiportal** - Spring Boot API which uses H2 in-memory database
-*a - Clone the project
-*b - Using terminal or command prompt, go to "apiportal" folder
+- Clone the project
+- Using terminal or command prompt, go to "apiportal" folder
 *c - run mvn clean install
 *d - run mvn spring-boot:run
 
