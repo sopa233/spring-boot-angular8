@@ -20,7 +20,7 @@ You may verify it (http://localhost:8080/apiportal/users) in the browser or test
 It will automatically open the below in browser
 http://localhost:4200/users
 
-**Note:
+**Note:**
 
 This was built using the below
 - Java 1.8
