@@ -28,7 +28,6 @@ This was built using the below
 - Node: 12.7.0
 - MacOS
 
-- It also uses router state options to pass data between components
- - this.router.navigateByUrl('/update', { state: user })
+- It uses this.router.navigateByUrl('/update', { state: user }) to pass data between components
 
 
