@@ -1,4 +1,4 @@
-# spring-boot-angular8
+# spring-boot-angular8 CRUD Application
 This simple CRUD app has two parts:
 1. apiportal
 2. angular-app
@@ -15,8 +15,8 @@ You may verify it (http://localhost:8080/apiportal/users) in the browser or test
 **2.angular-app** - Angular8 application for the user interface
 - Clone the project
 - Using terminal or command prompt, go to "angular-app" folder
+- run sudo npm install
 - run ng server -o
-
 It will automatically open the below in browser
 http://localhost:4200/users
 
@@ -28,7 +28,6 @@ This was built using the below
 - Node: 12.7.0
 - MacOS
 
-- It also uses router state options to pass data between components
- - this.router.navigateByUrl('/update', { state: user })
+- It uses this.router.navigateByUrl('/update', { state: user }) to pass data between components
 
 
