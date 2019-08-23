@@ -1,9 +1,9 @@
 # spring-boot-angular8
 This simple CRUD app has two parts:
-1) apiportal
-2) angular-app
+1. apiportal
+2. angular-app
 
-1) apiportal - Spring Boot API which uses H2 in-memory database
+**a) apiportal** - Spring Boot API which uses H2 in-memory database
 
 To run this:
 a - Clone the project
@@ -14,7 +14,7 @@ d - run mvn spring-boot:run
 By default it runs on port 8080.
 You may verify it (http://localhost:8080/apiportal/users) in the browser and will return JSON object
 
-2) angular-app - Angular8 application for the user interface
+**b) angular-app** - Angular8 application for the user interface
 
 To run this:
 a - Clone the project
