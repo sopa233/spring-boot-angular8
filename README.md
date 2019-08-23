@@ -10,7 +10,7 @@ This simple CRUD app has two parts:
 - run mvn spring-boot:run
 
 By default it runs on port 8080.
-You may verify it (http://localhost:8080/apiportal/users) in the browser and will return JSON object
+You may verify it (http://localhost:8080/apiportal/users) in the browser or test tools like postman and will return JSON object
 
 **2.angular-app** - Angular8 application for the user interface
 - Clone the project
