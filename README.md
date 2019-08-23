@@ -12,7 +12,7 @@ This simple CRUD app has two parts:
 By default it runs on port 8080.
 You may verify it (http://localhost:8080/apiportal/users) in the browser or test tools like postman and will return JSON object
 
-You may check the database @ http://localhost:8080/apiportal/h2-console
+Once the Java app is running, H2 database can be verified at http://localhost:8080/apiportal/h2-console
 
 **2.angular-app** - Angular8 application for the user interface
 - Clone the project
