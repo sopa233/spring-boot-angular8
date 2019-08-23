@@ -20,6 +20,8 @@ You may verify it (http://localhost:8080/apiportal/users) in the browser or test
 It will automatically open the below in browser
 http://localhost:4200/users
 
+![Alt text](https://github.com/sopa233/spring-boot-angular8/blob/master/angular-app/src/assets/crud-img.png?raw=true “CRUD App”)
+
 **Note:**
 
 This was built using the below
