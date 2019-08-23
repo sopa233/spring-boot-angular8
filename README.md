@@ -26,7 +26,9 @@ This was built using the below
 - Java 1.8
 - Angular CLI: 8.2.0
 - Node: 12.7.0
-- OS: darwin x64
+- MacOS
 
+- It also uses router state options to pass data between components
+ - this.router.navigateByUrl('/update', { state: user })
 
 
