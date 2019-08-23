@@ -1,4 +1,4 @@
-# spring-boot-angular8
+# spring-boot-angular8 CRUD Application
 This simple CRUD app has two parts:
 1. apiportal
 2. angular-app
