@@ -20,4 +20,13 @@ You may verify it (http://localhost:8080/apiportal/users) in the browser and wil
 It will automatically open the below in browser
 http://localhost:4200/users
 
+**Note:
+
+This was built using the below
+- Java 1.8
+- Angular CLI: 8.2.0
+- Node: 12.7.0
+- OS: darwin x64
+
+
 
